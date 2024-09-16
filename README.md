@@ -8,9 +8,9 @@ git clone <link>
 
 #### Step 3: Read the instructions of Discussion 4
 
-#### Step 4: Modify the code in Diss4.py.  To add this file to the staging area for a commit use:
+#### Step 4: Modify the code in Discussion4.py.  To add this file to the staging area for a commit use:
 ```
-git add Diss4.py
+git add Discussion4.py
 ```
 #### Step 5: As you work, run below to commit/save your changes locally often.
 
