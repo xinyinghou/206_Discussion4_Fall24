@@ -20,7 +20,7 @@ git add <file>
 git commit -m <message>
 ```
 
-Please commit at least 4 times while working on your project; you might commit each time you finish writing a new function or method. 
+Please commit at least 4 times while working on this assignment; you might commit each time you finish writing a new function or method. 
 
 #### Step 6: Upload your saved changes to GitHub 
 
